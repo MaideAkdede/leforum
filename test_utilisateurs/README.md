@@ -1,6 +1,7 @@
 # TEST UTILISATEURS
 
 > Ci-dessous, les commentaires des vidéos des test utilisateurs en plus d'une courte description des utilisateurs eux même et du timing de leurs tests\
+> [Lire les scénarios](./scenarios.md)
 
 * * *
 
