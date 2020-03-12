@@ -1,6 +1,6 @@
 # SCÉNARIOS
 > [Retourner à la racine du repo Le Forum](../../..) \
-> [Voir les notes et commentaires sur les tests utilisateurs](../../test_utilisateurs/)
+> [Voir les notes et commentaires sur les tests utilisateurs](./)
 
 * * *
 
