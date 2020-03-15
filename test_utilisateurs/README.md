@@ -6,51 +6,64 @@
 * * *
 
 ## Utilisateur 1
-  **Prénom :**  nom\
-  **Âge :**  age\
-  **Fonction :** que fait-il et a t-il déjà été sur ce site\
+  **Prénom :**  Karine\
+  **Âge :**  44\
+  **Fonction :** comptable à la FN\
+  **Technologie :** elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.
+  **Elle a réalisé le test sur smartphone
 
   ### Scénario 1
-  *00:00 >  00:00*
+  *00:00 >  03:51*
 
-    - Commentaires
+    - Pas de recherche par date ou par titre
+    - Le site n'est pas responsive. Le bouton suivant était coupé, elle a failli le manquer. 
+    - La navigation dans le plan de la salle est sensible et complexe. Il faut être capable de cliquer au bon endroit pour choisir son siège. 
+    - Le plan : "image infinie" c-à-d que quand on scroll, l'image descend mais pas la page. On ne sait pas aller plus bas si on ne scroll pas dans le texte. La 2e option pour avancer était de cliquer sur le panier dans le burger menu (c'est ce que Karine a fait). 
 
   ### Scénario 2
 
-  *00:00 >  00:00*
+  *00:00 >  02:19*
 
-    - Commentaires
+    - Elle a eu des difficultés à trouver la personne de contact.
+
 
   ### Scénario 3
 
-  *00:00 > 00:00*
+  *00:00 > 03:06*
 
-    - Commentaires
+    - En premier lieu, elle pensait trouver les informations dans "info pratiques", puis dans "contact" puis dans "forum" en voulant contacter la personne en charge de la billetterie (il n'était pas possible de la contacter personnellement, ses coordonnées ne sont pas indiquées). 
+    - Enfin, elle a trouvé l'onglet FAQ mais elle a mis du temps à tomber sur la bonnne information à cause de la mauvaise architecture des informations.  
 
 * * *
 
 ## Utilisateur 2
 
-  **Prénom :**  nom\
-  **Âge :**  age\
-  **Fonction :** que fait-il et a t-il déjà été sur ce site\
+  **Prénom :**  Théo\
+  **Âge :**  21\
+  **Fonction :** demandeur d'emploi\
+  **Techonologie :**  il utilise son téléphone tous les jours. Il utilise son ordinateur assez souvent, principalement pour écrire des documents Word ou regarder des films. Mais il fréquente rarement ce genre de site internet. Il n'avait jamais visité ce site web avant.
+  **Il a réalisé le test sur desktop
 
   ### Scénario 1
-  *00:00 >  00:00*
+  *00:00 >  03:00*
 
-    - Commentaires
+    - Juste après avoir choisi la catégorie, il a vu un lien "voir le plan de la salle" au dessus et a cliqué dessus en pensant pouvoir choisir ses places directement (sans aller sur une autre page). Il n'a pas eu le premier réflex de cliquer sur suivant. Mais il l'a ensuite fait, ce qui l'a emmené sur la page du plan de la salle où il a pu enfin choisir ses places.  
+    - La navigation dans le plan de la salle est sensible et complexe. Quand on scroll dans le plan, ça zoom au lieu de descendre, il faut scroller sur le coté pour descendre (on ne voit pas bien la délimitation de l'espace que prend le plan et du site où on peut scroller pour descendre) 
 
   ### Scénario 2
 
-  *00:00 >  00:00*
+  *00:00 >  01:45*
 
-    - Commentaires
+    - quand on accède aux formules sandwich par les boutons au bas de la page d'accueil, ça nous mène dirrectement à la bonne formule mais après on ne remarque pas facilement qu'on peut scroller vers le haut pour remonter au dessus de la page "formules VIP" afin de trouver le nom de la personne à contacter.
 
   ### Scénario 3
 
-  *00:00 > 00:00*
+  *00:00 > 02:51*
 
-    - Commentaires
+    - Son premier reflex a été d'aller voir dans "info pratiques" 
+    - À cause du site pas responsive, il a du mettre la page en plein écran pour voir le menu au complet 
+    - Il a ensuite été voir dans l'onglet forum pour trouver la personne en charge de la billetterie 
+    - Au final, il est tombé sur la bonne page par élimination mais il a mis du temps à trouver la bonne information à cause de la mauvaise architecture du contenu. 
 
 * * *
 
@@ -58,10 +71,10 @@
 
   **Prénom :**  Sarah\
   **Âge :**  25\
-  **Fonction :** Travaille dans une entreprise d'analyse en biologie moléculaire ?
+  **Fonction :** Travaille dans une entreprise d'analyse en biologie moléculaire 
   Elle navigue souvent sur le web sur son ordinateur mais n'a jamais fréquenté ce site\
  
-  (Ordinateur)
+  **(Ordinateur)
   
   ### Scénario 1
   *00:00 >  04:48*
