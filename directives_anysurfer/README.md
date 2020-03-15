@@ -68,7 +68,7 @@ Aucune des images n'ont d'alternative textuelle
 
 ### 2.4.2 Des th définissent les en-têtes des tableaux de données 
 
-Les tableaux ne contiennent pas de <th> mais uniquement de <code><tr></code> et <code><td></code>
+Les tableaux ne contiennent pas de <th> mais uniquement de <code>tr</code> et <code>td</code>
   
 <img src="./img/table_html.png" alt="incorrect table" height="250" width="auto"/>
 
