@@ -6,8 +6,8 @@
 
 - Intégration de micro-data
 
-<img src="./microdata/microdata" alt="microdata" />
-<img src="./microdata/microdata2" alt="microdata" />
+<img src="./microdata/microdata.png" alt="microdata" />
+<img src="./microdata/microdata2.png" alt="microdata" />
 
 - <code>h2</code> = Catégories (via le tri des cartes)
 
