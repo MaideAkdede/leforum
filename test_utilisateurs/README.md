@@ -9,8 +9,8 @@
   **Prénom :**  Karine\
   **Âge :**  44\
   **Fonction :** comptable à la FN\
-  **Technologie :** elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.
-  **Elle a réalisé le test sur smartphone
+  **Technologie :** elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.\
+  **Elle a réalisé le test sur smartphone**
 
   ### Scénario 1
   *00:00 >  03:51*
@@ -41,8 +41,8 @@
   **Prénom :**  Théo\
   **Âge :**  21\
   **Fonction :** demandeur d'emploi\
-  **Techonologie :**  il utilise son téléphone tous les jours. Il utilise son ordinateur assez souvent, principalement pour écrire des documents Word ou regarder des films. Mais il fréquente rarement ce genre de site internet. Il n'avait jamais visité ce site web avant.
-  **Il a réalisé le test sur desktop
+  **Techonologie :**  il utilise son téléphone tous les jours. Il utilise son ordinateur assez souvent, principalement pour écrire des documents Word ou regarder des films. Mais il fréquente rarement ce genre de site internet. Il n'avait jamais visité ce site web avant.\
+  **Il a réalisé le test sur desktop**
 
   ### Scénario 1
   *00:00 >  03:00*
