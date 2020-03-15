@@ -17,8 +17,8 @@ L’objectif premier est évidemment de vendre des places de spectacle, de conce
 
 ## Analyse
 
-Le site suit-ils les directives d'anysurfer ? [Non, voir la listes des directives non suivies](./directives_anysurfer/)\
-Analyse GTmetrix
+- Le site suit-ils les directives d'anysurfer ? [Non, voir la listes des directives non suivies](./directives_anysurfer/)\
+- Analyse GTmetrix\
 
 ## Scénarios, tests utilisateurs
 
