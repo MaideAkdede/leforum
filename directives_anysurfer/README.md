@@ -70,7 +70,7 @@ Aucune des images n'ont d'alternative textuelle
 
 Les tableaux ne contiennent pas de <th> mais uniquement de <tr> et <td>
   
-<img src="./img/table_view.png" alt="incorrect table" height="250" width="auto"/>
+<img src="./img/table_html.png" alt="incorrect table" height="250" width="auto"/>
 
 
 ### 3.1.1 Les liens sont facilement identifiables comme tels `NON`
