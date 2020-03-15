@@ -54,28 +54,34 @@
 
 * * *
 
-## Utilisateur 3
+## Utilisateur 3 
 
-  **Prénom :**  nom\
-  **Âge :**  age\
-  **Fonction :** que fait-il et a t-il déjà été sur ce site\
-
+  **Prénom :**  Sarah\
+  **Âge :**  25\
+  **Fonction :** Travaille dans une entreprise d'analyse en biologie moléculaire ?
+  Elle navigue souvent sur le web sur son ordinateur mais n'a jamais fréquenté ce site\
+ 
+  (Ordinateur)
+  
   ### Scénario 1
-  *00:00 >  00:00*
+  *00:00 >  04:48*
 
-    - Commentaires
+    - En ce qui concerne la réservation des places, ce n'est ni clair ni intuitif pour elle. 
+    - Il faudrait une légende indiquant les places réservées et les non-réservées.
+    
+    Cela lui semble étrange qu'il y ait 2 boutons "suivant" (en haut et en bas) du coup, elle a hésité sur lequel choisir
 
   ### Scénario 2
 
-  *00:00 >  00:00*
+  *00:00 >  01:53*
 
-    - Commentaires
+    - Elle a assez vite trouvé la formule cependant a eu du mal à savoir laquelle des 2 personnes responsables est en charge des réservations.
 
   ### Scénario 3
 
-  *00:00 > 00:00*
+  *00:00 > 00:47*
 
-    - Commentaires
+    - Elle a trouvé plutôt rapidement l'information vu qu'elle sait déjà que les questions se trouvent dans un FAQ
 
 * * *
 
