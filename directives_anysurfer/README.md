@@ -63,8 +63,15 @@ Le site n'est constitué que de DIV avec des ID et de lien
 ### 2.3.2 Les images complexes sont décrites par un texte
 ### 2.3.3 Les images d'arrière-plan qui contiennent de l'information ont une variante accessible
 
-
 Aucune des images n'ont d'alternative textuelle
+
+
+### 2.4.2 Des th définissent les en-têtes des tableaux de données 
+
+Les tableaux ne contiennent pas de <th> mais uniquement de <tr> et <td>
+  
+### IMG
+
 
 ### 3.1.1 Les liens sont facilement identifiables comme tels `NON`
 
