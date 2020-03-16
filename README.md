@@ -24,6 +24,7 @@ L’objectif premier est évidemment de vendre des places de spectacle, de conce
 - [Selon les directives d'Anysurfer](./directives_anysurfer/)
 - [Rapidité et consommation du site](./analyse_gtmetrix/)
 - Aucun microdata présent dans le site.
+- Site pas du tout responsive
 
 ## Scénarios, tests utilisateurs
 
