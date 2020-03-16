@@ -15,19 +15,18 @@ Le public cible est vaste. Ce sont toutes les personnes intéressées par un div
 
 L’objectif premier est évidemment de vendre des places de spectacle, de concert, … Mais également de renseigner le spectateur sur les évènements, sur le lieu, sur comment s’y rendre, sur les formules traiteur, etc…
 
-## Analyse
+## Analyse du site
 
-- Le site suit-ils les directives d'anysurfer ? [Non, voir la listes des directives non suivies](./directives_anysurfer/)\
-- Analyse GTmetrix\
-- Aucun microdata présent dans le site
+- [Selon les directives d'Anysurfer](./directives_anysurfer/)\
+- [Rapidité et consommation du site](./analyse_gtmetrix/)
+- Aucun microdata présent dans le site.
 
 ## Scénarios, tests utilisateurs
 
-[Voir les scénarios](./test_utilisateurs/scenarios.md)\
-[Commentaires et notes sur les Tests Utilisateurs](./test_utilisateurs/)
+- [Voir les scénarios](./test_utilisateurs/scenarios.md)\
+- [Tests Utilisateurs & commentairesa](./test_utilisateurs/)
 
-## Solutions, refontes
-Voir les solutions proposées et les refontes
-
-
-
+## Solutions & Refontes
+- [Page d'Accueil - Par Anaïs Piron](./solutions_refontes/)
+- [Page de Contact - Par Maïde Akdede](./leforum_refonte_page_contact/)
+- [Page FAQ - Par Emmanuelle Vo](./refontes/FAQ/F.A.Q._files)
