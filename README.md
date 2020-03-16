@@ -24,7 +24,7 @@ L’objectif premier est évidemment de vendre des places de spectacle, de conce
 ## Scénarios, tests utilisateurs
 
 - [Voir les scénarios](./test_utilisateurs/scenarios.md)
-- [Tests Utilisateurs & commentairesa](./test_utilisateurs/)
+- [Tests Utilisateurs & commentaires](./test_utilisateurs/) > nous vous enverrons les vidéos individuellements sur slack :grin:
 
 ## Solutions & Refontes
 - [Page d'Accueil - Par Anaïs Piron](./solutions_refontes/)
