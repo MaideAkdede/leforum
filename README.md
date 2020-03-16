@@ -17,13 +17,13 @@ L’objectif premier est évidemment de vendre des places de spectacle, de conce
 
 ## Analyse du site
 
-- [Selon les directives d'Anysurfer](./directives_anysurfer/)\
+- [Selon les directives d'Anysurfer](./directives_anysurfer/)
 - [Rapidité et consommation du site](./analyse_gtmetrix/)
 - Aucun microdata présent dans le site.
 
 ## Scénarios, tests utilisateurs
 
-- [Voir les scénarios](./test_utilisateurs/scenarios.md)\
+- [Voir les scénarios](./test_utilisateurs/scenarios.md)
 - [Tests Utilisateurs & commentairesa](./test_utilisateurs/)
 
 ## Solutions & Refontes
