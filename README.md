@@ -15,6 +15,10 @@ Le public cible est vaste. Ce sont toutes les personnes intéressées par un div
 
 L’objectif premier est évidemment de vendre des places de spectacle, de concert, … Mais également de renseigner le spectateur sur les évènements, sur le lieu, sur comment s’y rendre, sur les formules traiteur, etc…
 
+## Répartition des tâches & gestion du projet
+
+ - [En savoir plus sur la gestion du projet ici](./gestion_taches)
+ 
 ## Analyse du site
 
 - [Selon les directives d'Anysurfer](./directives_anysurfer/)
