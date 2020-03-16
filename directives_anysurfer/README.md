@@ -9,7 +9,7 @@ Mais les liens et les boutons ne sont absolument pas visible sauf si on regarde 
 
 Voici un aperçu de ce que l'on voit lorsqu'on TAB :
 
-<img src="./img/navigation_clavier.gif" height="250" width="auto" alt="Le site n'est pas navigable au clavier" />
+<img src="./img/navigation_clavier.gif" alt="Le site n'est pas navigable au clavier" />
 
 ### 1.2 Les intitulés des liens sont significatifs dans leur contexte `NON`
 
@@ -22,20 +22,20 @@ Les liens (et boutons) nous indiques absolument pas à quoi font références le
 
 Voici l'outline du site du Forum de Liège (outline incorrect):
 
-<img src="./img/outline_leforum.png" alt="an incorrect outline in HTML" width="450" />
+<img src="./img/outline_leforum.png" alt="an incorrect outline in HTML"/>
 
 Voici l'outline du site d'AnySurfer (un outline correct):
 
-<img src="./img/outline_anysurfer.png" width="350" alt="a correct outline" />
+<img src="./img/outline_anysurfer.png" alt="a correct outline" />
 
 En utilisant le [validateur HTML du W3C](https://validator.w3.org/) pour contrôler chaque page,
 nous pouvons constater que le site du forum depassé la centaine d'erreur :
 
-<img src="./img/error_test_forum.png" alt="an incorrect outline in HTML" height="250" width="auto" />
+<img src="./img/error_test_forum.png" alt="an incorrect outline in HTML" />
 
 comparé au site du W3 :
 
-<img src="./img/error_test_w3.png" alt="an incorrect outline in HTML" height="250" width="auto"/>
+<img src="./img/error_test_w3.png" alt="an incorrect outline in HTML" height="250" />
 
 Un même ID utilisé plusieurs fois, manque de ALT dans les images.
 Pas de header correct
@@ -53,11 +53,11 @@ soit ils écrivent uniquement le nom du site, soit le titre de la page.
 
 Le site n'est constitué que de DIV avec des ID et de lien
 
-<img src="./img/semantique.png" alt="incorrect title pages" height="250" width="auto"/>
+<img src="./img/semantique.png" alt="incorrect title pages" />
 
 ### 2.2.3 La langue principale de chaque page est indiquée `NON`
 
-<img src="./img/langue.png" alt="incorrect title pages" height="auto" width="350"/>
+<img src="./img/langue.png" alt="incorrect title pages" />
 
 ### 2.3.1 Chaque image a un attribut alt `NON`
 ### 2.3.2 Les images complexes sont décrites par un texte
@@ -70,7 +70,7 @@ Aucune des images n'ont d'alternative textuelle
 
 Les tableaux ne contiennent pas de <code>th</code> mais uniquement de <code>tr</code> et <code>td</code>
   
-<img src="./img/table_html.png" alt="incorrect table" height="250" width="auto"/>
+<img src="./img/table_html.png" alt="incorrect table"/>
 
 
 ### 3.1.1 Les liens sont facilement identifiables comme tels `NON`
@@ -79,22 +79,22 @@ Il y en a qui sont bien visible est souligné mais pas d'autres. Ils ne sont pas
 
 ### 3.2.1 Le contenu de la page suit un ordre logique `NON`
 
-<img src="./img/css_disabled.gif" alt="page illogique sans css" height="auto" width="350"/>
+<img src="./img/css_disabled.gif" alt="page illogique sans css" />
 
 ### 4.1.1 Les labels et éléments des formulaires sont intimement liés `NON`
 
 Aucun LABEL donc aucune liaison :
 
-<img src="./img/label_form.png" height="auto" width="450"/>
+<img src="./img/label_form.png" />
 
 ### 4.1.2 Les champs sans label sont décrits par un tooltip `NON`
 
 absolument pas, il n'y a que des HOVER ! et une fois cliqué ça disaprait et n'apparait plus
 
-<img src="./img/label_form.gif" height="auto" width="450"/>
+<img src="./img/label_form.gif" />
 
 ### 4.1.8 Lors de la validation, les erreurs sont indiquées et expliquées par du texte `NON`
 
 La seule erreurs est une ALERT qui dit juste :
 
-<img src="./img/form_alert.png" alt="Veuillez saisir votre nom et votre prénom" height="auto" width="450"/>
+<img src="./img/form_alert.png" alt="Veuillez saisir votre nom et votre prénom" />
