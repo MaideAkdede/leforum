@@ -1,0 +1,298 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* ---------- E N D   O F  R E S E T  ----------*/
+body{
+  background-color:#1B1C20;
+  font-family:'BrandonGrotesqueBlack', 'Futura', Tahoma;
+  color: white;
+  font-size: 16px;
+  min-height: 100vh;
+}
+.hidden{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap; /* added line */
+  border: 0;
+}
+header{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+}
+ul{
+    position: absolute;
+    top:5vh;
+    margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+li a {
+  text-decoration: none;
+  color: white;
+}
+li{
+  padding: 0.5em;
+  margin: auto;
+}
+li a:focus, li a:hover {
+  color: #DEC187;
+  text-decoration: underline;
+}
+.active_link{
+  color: #DEC187;
+}
+.fb_cta{
+  display: block;
+  height: 20px;
+  width: 20px;
+  background-image: url('../img/facebook_cta.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.fb_cta:focus, .fb_cta:hover{
+    border: 1px #DEC187 solid;
+}
+.burger div{
+    height: 4px;
+    width: 30px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.burger{
+    display: none;
+}
+#logo_forum{
+  min-width: 235px;
+  max-width: 350px;
+  margin-right: 15px;
+}
+hr {
+  width: 100vw;
+	height:1px;
+	background-color:#DEC187;
+	border:none;
+}
+main{
+  display: flex;
+  flex: 1 1 auto;
+  padding: 2em;
+}
+.main_title{
+	margin: 1em auto;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2em;
+}
+.contact_log{
+  display: flex;
+  flex-direction: row;
+}
+#pos{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#tel{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#tel a{
+    color: white;
+}
+#tel a:hover, #tel a:focus {
+    color: #DEC187;
+}
+.info{
+  font-size: 0.85em;
+  font-weight: lighter;
+  margin-bottom: 2em;
+  margin-right: 5em;
+}
+.info img{
+  padding: 0.5em;
+  margin-right: 0.5em;
+}
+
+form{
+  margin: 0 auto;
+}
+form input[type=text], form textarea {
+  font-size: 16px;
+  padding: 0.75em;
+  color: white;
+  background-color: transparent;
+  border: 1px solid #393F4D;
+  margin-bottom: 1.2em;
+}
+form input[type=text].error, form textarea.error{
+	border: 1px solid #da3333;
+}
+p.error{
+    margin-top: -0.9em;
+    margin-bottom: 0.65em;
+    color: #da3333;
+    letter-spacing: 3px;
+    font-size: 0.75em;
+}
+form input[type=button]{
+	font-size: 16px;
+	padding: 0.75em;
+	color: #DEC187;
+	background-color: transparent;
+	border: 1px solid #DEC187;
+	margin-bottom: 1.2em;
+}
+form input[type=button]:hover, form input[type=button]:focus{
+		background-color: #DEC187;
+		color: white;
+}
+form *::placeholder{
+  color: white;
+}
+footer{
+  font-size: 0.85em;
+  margin: 0 auto;
+  text-align: center;
+    margin-top: 30vh;
+}
+footer img{
+	margin-bottom: 2em;
+}
+.copyright{
+  color: #959595;
+  margin-top: 2em;
+  margin-bottom: em;
+}
+/* ---------- R E S P O N S I V E  D I S P L A Y   ----------*/
+@media only screen and (min-width: 750px){
+  body{
+    display: flex;
+    flex-direction: column;
+  }
+  main{
+    display: flex;
+    flex-direction: row;
+  }
+	.form{
+	}
+	.info{
+        margin-left: 10vw;
+        flex: 2;
+	}
+  form input[type=text], form textarea{
+    width: 30vw;
+  }
+	form input[type=button]{
+		width: calc(30vw + 26px);
+	}
+}
+
+/* ---------- R E S P O N S I V E  M O B I L E  ----------*/
+@media only screen and (max-width: 750px){
+  body{
+    display: flex;
+    flex-direction: column;
+  }
+  main{
+    display: flex;
+    flex-direction: column;
+  }
+  .form{
+    margin: 0 auto;
+  }
+	.info{
+		margin: 0 auto;
+		margin-bottom: 3em;
+	}
+  form input[type=text], form textarea{
+    width: 75vw;
+  }
+	form input[type=button] {
+		width: calc(75vw + 26px);
+
+	}
+    body{
+        overflow-x: hidden;
+    }
+    ul{
+        background-color: #1B1C20;
+        height: 90vh;
+        width: 50%;
+        position: absolute;
+        top:10vh;
+        right: 0;
+        display: flex ;
+        flex-direction: column;
+        align-content: center;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+    }
+    .burger{
+        position: absolute;
+        top:5vh;
+        right: 0;
+        display: block;
+        cursor: pointer;
+    }
+    .burger:hover, .burger:focus{
+        background-color: #DEC187;
+    }
+    .nav-active{
+        transform: translateX(0%);
+    }
+}
